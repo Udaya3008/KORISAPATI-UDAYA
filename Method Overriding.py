@@ -12,3 +12,7 @@ class Motorcycle(Vehicle):
 vehicle = Vehicle()
 car = Car()
 motorcycle = Motorcycle()
+
+vehicle.describe()
+car.describe()
+motorcycle.describe()
